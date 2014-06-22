@@ -1,0 +1,6 @@
+components/
+dist/
+.sass-cache/
+.idea/
+.tmp/
+node_modules/
