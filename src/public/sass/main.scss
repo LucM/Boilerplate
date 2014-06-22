@@ -1,0 +1,31 @@
+@import "compass/reset";
+
+$topbar-height: 40px;
+$sidebar-width: 250px;
+body {
+  background: #FFF;
+  color: #555;
+}
+
+nav.topbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: $topbar-height;
+  border-bottom: #AAA 2px solid;
+
+}
+
+section.sidebar {
+  position: fixed;
+  top: $topbar-height;
+  left: 0;
+  bottom: 0;
+  width: $sidebar-width;
+  border-right: #AAA 2px solid;
+}
+
+section.page {
+
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Bootstrap",
+  "version": "0.0.1",
+  "homepage": "https://github.com/LucM/Bootstrap",
+  "authors": [
+    "Luc <luc.momal@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.2.18",
+    "angular-ui-router": "~0.2.10",
+    "json3": "~3.3.1",
+    "es5-shim": "~3.4.0"
+  }
+}
